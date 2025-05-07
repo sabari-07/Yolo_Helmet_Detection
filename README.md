@@ -130,7 +130,7 @@ YOLOv8 may be used directly in the Command Line Interface (CLI) with a `yolo` co
 
 clone this repository in personal machine 
 ```bash
-git clone https://github.com/prince0310/Helmet-Detection-using-YOLOv8.git
+git clone https://github.com/sabari-07/Yolo_Helmet_Detection.git
 ```
 Move into the folder Helmet-Detection-using-YOLOv8
 ```bash
